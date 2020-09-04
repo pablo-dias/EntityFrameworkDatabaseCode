@@ -1,0 +1,12 @@
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFrameworkDatabaseCode.exe.config
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFrameworkDatabaseCode.exe
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFrameworkDatabaseCode.pdb
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFramework.dll
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFramework.xml
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\obj\Debug\EntityFrameworkDatabaseCode.csprojAssemblyReference.cache
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\obj\Debug\EntityFrameworkDatabaseCode.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\obj\Debug\EntityFrameworkDatabaseCode.csproj.CopyComplete
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\obj\Debug\EntityFrameworkDatabaseCode.exe
+C:\Users\Pablo Dias\source\repos\EntityFrameworkDatabaseCode\EntityFrameworkDatabaseCode\obj\Debug\EntityFrameworkDatabaseCode.pdb
